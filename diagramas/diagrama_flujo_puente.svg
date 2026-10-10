@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#0B1B2B" flood-opacity="0.15"/></filter>
+  <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4A5563"/></marker>
+  <marker id="ay" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E8B57"/></marker>
+  <marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker>
+</defs>
+<rect width="1200" height="1800" fill="#FFFFFF"/>
+<text x="600" y="34.0" font-size="24" font-weight="800" fill="#1F3A5F" text-anchor="middle" dominant-baseline="central">Proceso de diseño y construcción del puente</text>
+<text x="600" y="64.0" font-size="14" font-weight="500" fill="#5B6775" text-anchor="middle" dominant-baseline="central">Desde la constitución del proyecto hasta la entrega de la obra</text>
+<rect x="20" y="90" width="1160" height="430" fill="#F6F8FB"/>
+<rect x="20" y="90" width="34" height="430" fill="#1F3A5F" opacity="0.92"/>
+<text x="37" y="305.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" letter-spacing="1.2" transform="rotate(-90 37 305.0)">FASE 1 · INICIO Y DIAGNÓSTICO</text>
+<rect x="20" y="520" width="1160" height="230" fill="#FFFFFF"/>
+<rect x="20" y="520" width="34" height="230" fill="#1F3A5F" opacity="0.92"/>
+<text x="37" y="635.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" letter-spacing="1.2" transform="rotate(-90 37 635.0)">FASE 2 · ALTERNATIVAS</text>
+<rect x="20" y="750" width="1160" height="310" fill="#F6F8FB"/>
+<rect x="20" y="750" width="34" height="310" fill="#1F3A5F" opacity="0.92"/>
+<text x="37" y="905.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" letter-spacing="1.2" transform="rotate(-90 37 905.0)">FASE 3 · DISEÑO</text>
+<rect x="20" y="1060" width="1160" height="300" fill="#FFFFFF"/>
+<rect x="20" y="1060" width="34" height="300" fill="#1F3A5F" opacity="0.92"/>
+<text x="37" y="1210.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" letter-spacing="1.2" transform="rotate(-90 37 1210.0)">FASE 4 · PRESUPUESTO</text>
+<rect x="20" y="1360" width="1160" height="360" fill="#F6F8FB"/>
+<rect x="20" y="1360" width="34" height="360" fill="#1F3A5F" opacity="0.92"/>
+<text x="37" y="1540.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" letter-spacing="1.2" transform="rotate(-90 37 1540.0)">FASE 5 · EJECUCIÓN Y ENTREGA</text>
+<rect x="515" y="101" width="170" height="48" rx="24" fill="#1F3A5F" filter="url(#sh)"/>
+<text x="600" y="125.0" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">INICIO</text>
+<path d="M600,149 V172 H460 V192" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M600,172 H740 V192" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="560" y="161" width="80" height="22" rx="11" fill="#F6F8FB" stroke="#C5CDD8"/>
+<text x="600" y="172.0" font-size="12" font-weight="500" fill="#5B6775" text-anchor="middle" dominant-baseline="central" font-style="italic">en paralelo</text>
+<rect x="345.0" y="192.0" width="230" height="60" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="460" y="212.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Constitución</text>
+<text x="460" y="231.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">del proyecto</text>
+<rect x="625.0" y="192.0" width="230" height="60" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="740" y="212.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Recolección</text>
+<text x="740" y="231.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">de información</text>
+<path d="M625,222 H577" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M898,150 H1152 Q1160,150 1160,158 V288 C1092.5,266 1025.0,304 957.5,294 S903.5,298 890,290 V158 Q890,150 898,150 Z" fill="#EEF7E8" stroke="#4E8A33" stroke-width="2" filter="url(#sh)"/>
+<text x="908" y="174" font-size="13" font-weight="700" fill="#4E8A33" letter-spacing="0.6">INSUMOS DOCUMENTALES</text>
+<text x="908" y="200" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">1.</tspan> Cartografía base</text>
+<text x="908" y="222" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">2.</tspan> Información del sitio</text>
+<text x="908" y="244" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">3.</tspan> Información del tránsito</text>
+<text x="908" y="266" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">4.</tspan> Población y demanda</text>
+<path d="M855,222 H886" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)" stroke-dasharray="6 5"/>
+<path d="M460,252 V275 H600 V290" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M740,252 V275 H600" stroke="#4A5563" stroke-width="2" fill="none"/>
+<rect x="450.0" y="292.0" width="300" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="318.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Consolidar los estudios de diagnóstico</text>
+<path d="M600,344 V368" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<path d="M225,368 H975" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M225,368 V390" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="115.0" y="392.0" width="220" height="66" rx="10" fill="#FFF2E3" stroke="#D9822B" stroke-width="2" filter="url(#sh)"/>
+<text x="225" y="415.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Estudios de</text>
+<text x="225" y="434.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">topografía</text>
+<path d="M225,458 V482" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M475,368 V390" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="365.0" y="392.0" width="220" height="66" rx="10" fill="#FFF2E3" stroke="#D9822B" stroke-width="2" filter="url(#sh)"/>
+<text x="475" y="415.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Estudios de</text>
+<text x="475" y="434.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">geotecnia y suelos</text>
+<path d="M475,458 V482" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M725,368 V390" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="615.0" y="392.0" width="220" height="66" rx="10" fill="#FFF2E3" stroke="#D9822B" stroke-width="2" filter="url(#sh)"/>
+<text x="725" y="415.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Estudios hidrológicos</text>
+<text x="725" y="434.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">e hidráulicos</text>
+<path d="M725,458 V482" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M975,368 V390" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="865.0" y="392.0" width="220" height="66" rx="10" fill="#FFF2E3" stroke="#D9822B" stroke-width="2" filter="url(#sh)"/>
+<text x="975" y="415.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Catastro y diagnóstico</text>
+<text x="975" y="434.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">estructural</text>
+<path d="M975,458 V482" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M225,482 H975" stroke="#4A5563" stroke-width="2" fill="none"/>
+<path d="M600,482 V550" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="460.0" y="552.0" width="280" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="578.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Estudio y selección de alternativas</text>
+<path d="M600,604 V622" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<polygon points="600,622 750,680 600,738 450,680" fill="#FFF6D9" stroke="#B98900" stroke-width="2" stroke-linejoin="round" filter="url(#sh)"/>
+<text x="600" y="670.9" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">¿Cumple los requerimientos</text>
+<text x="600" y="689.1" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">del cliente y la norma?</text>
+<path d="M450,680 H312" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<rect x="381.0" y="668" width="38" height="24" rx="12" fill="#C0392B"/>
+<text x="400" y="680.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">No</text>
+<rect x="80.0" y="652.0" width="230" height="56" rx="10" fill="#FDECEC" stroke="#C0392B" stroke-width="2" filter="url(#sh)"/>
+<text x="195" y="670.2" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Revisión de</text>
+<text x="195" y="689.8" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">las alternativas</text>
+<path d="M195,652 V578 H458" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<path d="M600,738 V806" fill="none" stroke="#2E8B57" stroke-width="2" stroke-linejoin="round" marker-end="url(#ay)"/>
+<rect x="609.0" y="758" width="34" height="24" rx="12" fill="#2E8B57"/>
+<text x="626" y="770.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Sí</text>
+<rect x="460.0" y="808.0" width="280" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="834.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Diseños definitivos</text>
+<path d="M898,768 H1152 Q1160,768 1160,776 V896 C1092.5,874 1025.0,912 957.5,902 S903.5,906 890,898 V776 Q890,768 898,768 Z" fill="#EEF7E8" stroke="#4E8A33" stroke-width="2" filter="url(#sh)"/>
+<text x="908" y="792" font-size="13" font-weight="700" fill="#4E8A33" letter-spacing="0.6">ENTREGABLES DE DISEÑO</text>
+<text x="908" y="818" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">1.</tspan> Informe de diseño</text>
+<text x="908" y="840" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">2.</tspan> Memorias de cálculo</text>
+<text x="908" y="862" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">3.</tspan> Especificaciones técnicas</text>
+<text x="908" y="884" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">4.</tspan> Cartografía</text>
+<path d="M740,834 H886" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)" stroke-dasharray="6 5"/>
+<path d="M600,860 V882" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<polygon points="600,885 750,945 600,1005 450,945" fill="#FFF6D9" stroke="#B98900" stroke-width="2" stroke-linejoin="round" filter="url(#sh)"/>
+<text x="600" y="935.9" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">¿Aprobado por</text>
+<text x="600" y="954.1" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">la interventoría?</text>
+<path d="M450,945 H312" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<rect x="381.0" y="933" width="38" height="24" rx="12" fill="#C0392B"/>
+<text x="400" y="945.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">No</text>
+<rect x="80.0" y="909.0" width="230" height="72" rx="10" fill="#FDECEC" stroke="#C0392B" stroke-width="2" filter="url(#sh)"/>
+<text x="195" y="926.8" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Ajustar diseños según</text>
+<text x="195" y="945.0" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">observaciones de</text>
+<text x="195" y="963.2" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">la interventoría</text>
+<path d="M195,909 V834 H458" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<path d="M600,1005 V1108" fill="none" stroke="#2E8B57" stroke-width="2" stroke-linejoin="round" marker-end="url(#ay)"/>
+<rect x="609.0" y="1023" width="34" height="24" rx="12" fill="#2E8B57"/>
+<text x="626" y="1035.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Sí</text>
+<rect x="460.0" y="1110.0" width="280" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="1136.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Elaborar el presupuesto</text>
+<path d="M898,1072 H1152 Q1160,1072 1160,1080 V1200 C1092.5,1178 1025.0,1216 957.5,1206 S903.5,1210 890,1202 V1080 Q890,1072 898,1072 Z" fill="#EEF7E8" stroke="#4E8A33" stroke-width="2" filter="url(#sh)"/>
+<text x="908" y="1096" font-size="13" font-weight="700" fill="#4E8A33" letter-spacing="0.6">ENTREGABLES DE COSTOS</text>
+<text x="908" y="1122" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">1.</tspan> Cotizaciones</text>
+<text x="908" y="1144" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">2.</tspan> Presupuesto definitivo</text>
+<text x="908" y="1166" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">3.</tspan> AIU</text>
+<text x="908" y="1188" font-size="14" font-weight="500" fill="#1F2933"><tspan font-weight="700" fill="#4E8A33">4.</tspan> APU</text>
+<path d="M740,1136 H886" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)" stroke-dasharray="6 5"/>
+<path d="M600,1162 V1184" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<polygon points="600,1187 750,1245 600,1303 450,1245" fill="#FFF6D9" stroke="#B98900" stroke-width="2" stroke-linejoin="round" filter="url(#sh)"/>
+<text x="600" y="1235.9" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">¿Cumple el presupuesto</text>
+<text x="600" y="1254.1" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">requerido por el cliente?</text>
+<path d="M450,1245 H312" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<rect x="381.0" y="1233" width="38" height="24" rx="12" fill="#C0392B"/>
+<text x="400" y="1245.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">No</text>
+<rect x="80.0" y="1209.0" width="230" height="72" rx="10" fill="#FDECEC" stroke="#C0392B" stroke-width="2" filter="url(#sh)"/>
+<text x="195" y="1226.8" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Revisar insumos,</text>
+<text x="195" y="1245.0" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">materiales, precios</text>
+<text x="195" y="1263.2" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">y proveedores</text>
+<path d="M195,1209 V1136 H458" fill="none" stroke="#C0392B" stroke-width="2" stroke-linejoin="round" marker-end="url(#an)"/>
+<path d="M600,1303 V1394" fill="none" stroke="#2E8B57" stroke-width="2" stroke-linejoin="round" marker-end="url(#ay)"/>
+<rect x="609.0" y="1318" width="34" height="24" rx="12" fill="#2E8B57"/>
+<text x="626" y="1330.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Sí</text>
+<rect x="430.0" y="1396.0" width="340" height="72" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="1413.8" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Asignar el presupuesto a la compra</text>
+<text x="600" y="1432.0" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">de insumos, materiales y</text>
+<text x="600" y="1450.2" font-size="14" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">contratación de personal</text>
+<path d="M600,1468 V1494" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="460.0" y="1496.0" width="280" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="1522.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Ejecución del proyecto en obra</text>
+<path d="M600,1548 V1574" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="460.0" y="1576.0" width="280" height="52" rx="10" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="2" filter="url(#sh)"/>
+<text x="600" y="1602.0" font-size="15" font-weight="600" fill="#1F2933" text-anchor="middle" dominant-baseline="central">Entrega del puente construido</text>
+<path d="M600,1628 V1650" fill="none" stroke="#4A5563" stroke-width="2" stroke-linejoin="round" marker-end="url(#a)"/>
+<rect x="515" y="1652" width="170" height="48" rx="24" fill="#1F3A5F" filter="url(#sh)"/>
+<text x="600" y="1676.0" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">FIN</text>
+<text x="40" y="1760" font-size="13" font-weight="700" fill="#1F3A5F" dominant-baseline="central">CONVENCIONES</text>
+<rect x="175" y="1751" width="30" height="18" rx="9" fill="#1F3A5F"/>
+<text x="213" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Inicio / fin</text>
+<rect x="327.8" y="1751" width="30" height="18" rx="4" fill="#E7F0FB" stroke="#2B6CB0" stroke-width="1.5"/>
+<text x="365.8" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Actividad</text>
+<rect x="458.40000000000003" y="1751" width="30" height="18" rx="4" fill="#FFF2E3" stroke="#D9822B" stroke-width="1.5"/>
+<text x="496.40000000000003" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Estudio técnico</text>
+<polygon points="648.4000000000001,1749 663.4000000000001,1760 648.4000000000001,1771 633.4000000000001,1760" fill="#FFF6D9" stroke="#B98900" stroke-width="1.5"/>
+<text x="671.4000000000001" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Decisión</text>
+<rect x="756.6000000000001" y="1751" width="30" height="18" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="1.5"/>
+<text x="794.6000000000001" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Corrección (reproceso)</text>
+<path d="M983.4000000000001,1751 H1013.4000000000001 V1766 Q1005.4000000000001,1761 998.4000000000001,1767 T983.4000000000001,1766 Z" fill="#EEF7E8" stroke="#4E8A33" stroke-width="1.5"/>
+<text x="1021.4000000000001" y="1760" font-size="13" font-weight="500" fill="#1F2933" dominant-baseline="central">Documento / entregable</text>
+</svg>
